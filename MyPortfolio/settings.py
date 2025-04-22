@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#s)#+6eo_@p)wza%%*t1y@d2kcza#-h)*6)ngon5%5s4wa%zv(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sushantpahari.com.np', 'www.sushantpahari.com.np', 'your-app-name.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['sushantpahari.com.np', 'www.sushantpahari.com.np', '.onrender.com','127.0.0.1']
 
 
 # Application definition
